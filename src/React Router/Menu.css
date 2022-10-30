@@ -1,0 +1,18 @@
+.menu_style{
+    width: 100%;
+    line-height: 60px;
+    background-color: #20232a;
+    display: flex;
+    justify-content: space-around;
+    font-size: large;
+    font-weight: 800;
+    color: white;
+}
+a{
+    color: #61dafb;
+    text-decoration: none;
+}
+a:hover{
+    color: #ffffff;
+    /* border-bottom: 1px solid red; */
+}
