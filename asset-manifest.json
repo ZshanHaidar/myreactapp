@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/myreactapp/static/css/main.034c1742.css",
+    "main.js": "/myreactapp/static/js/main.9cecc493.js",
+    "static/media/pc.jpg": "/myreactapp/static/media/pc.1623493c91f7af0b7738.jpg",
+    "static/media/samsung-memory.jpg": "/myreactapp/static/media/samsung-memory.424bcaf775cfec67bdd6.jpg",
+    "static/media/computer.jpg": "/myreactapp/static/media/computer.2115cbe55fcca4a0332a.jpg",
+    "static/media/mic.jpg": "/myreactapp/static/media/mic.6c989007fa749f829f81.jpg",
+    "static/media/controler.jpg": "/myreactapp/static/media/controler.103b92b40964ebff2e2a.jpg",
+    "static/media/laptop.jpg": "/myreactapp/static/media/laptop.c55fac45f9ef60c2cb46.jpg",
+    "static/media/reading-book.png": "/myreactapp/static/media/reading-book.eb1446bb57d43d7b72c2.png",
+    "static/media/best-seller.png": "/myreactapp/static/media/best-seller.d5492002068b52a68fad.png",
+    "index.html": "/myreactapp/index.html",
+    "main.034c1742.css.map": "/myreactapp/static/css/main.034c1742.css.map",
+    "main.9cecc493.js.map": "/myreactapp/static/js/main.9cecc493.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.034c1742.css",
+    "static/js/main.9cecc493.js"
+  ]
+}
